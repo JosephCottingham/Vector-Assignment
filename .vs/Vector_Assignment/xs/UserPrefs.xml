@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ED4B17F3-2496-E437-97A2-F5074A9766B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WatchTriggerScript.cs">
+    <Files>
+      <File FileName="Assets/RadialTriggerScript.cs" Line="24" Column="26" />
+      <File FileName="Assets/WatchTriggerScript.cs" Line="9" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vector_Assignment" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a656a7c2-729e-4079-9c1f-28315db2b83b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
